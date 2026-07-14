@@ -41,5 +41,5 @@
   DOMAIN-SUFFIX,mi.com
   DOMAIN-SUFFIX,dpdns.org
 
-  GEOSITE,cn
-  GEOIP,CN,no-resolve
+  # GEOSITE,cn
+  # GEOIP,CN,no-resolve
