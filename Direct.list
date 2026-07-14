@@ -1,42 +1,44 @@
-  - GEOSITE,private
-  - IP-CIDR,127.0.0.0/8,no-resolve
-  - IP-CIDR,169.254.0.0/16,no-resolve
-  - IP-CIDR,10.0.0.0/8,no-resolve
-  - IP-CIDR,172.16.0.0/12,no-resolve
-  - IP-CIDR,192.168.0.0/16,no-resolve
-  - IP-CIDR,100.64.0.0/10,no-resolve
-  - IP-CIDR,224.0.0.0/4,no-resolve
-  - IP-CIDR,240.0.0.0/4,no-resolve
-  - GEOSITE,category-games@cn
-  - GEOSITE,apple-cn
-  - GEOSITE,microsoft@cn
-  - GEOSITE,steam@cn
-  - DOMAIN-SUFFIX,cn
-  - DOMAIN-SUFFIX,中国
-  - DOMAIN-SUFFIX,公司
-  - DOMAIN-SUFFIX,网络
-  - DOMAIN-SUFFIX,baidu.com
-  - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,iqiyi.com
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,weixin.qq.com
-  - DOMAIN-SUFFIX,gtimg.com
-  - DOMAIN-SUFFIX,taobao.com
-  - DOMAIN-SUFFIX,tmall.com
-  - DOMAIN-SUFFIX,jd.com
-  - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,aliyuncs.com
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,amemv.com
-  - DOMAIN-SUFFIX,bytedance.com
-  - DOMAIN-SUFFIX,byteimg.com
-  - DOMAIN-SUFFIX,163.com
-  - DOMAIN-SUFFIX,126.net
-  - DOMAIN-SUFFIX,weibo.com
-  - DOMAIN-SUFFIX,zhihu.com
-  - DOMAIN-SUFFIX,meituan.com
-  - DOMAIN-SUFFIX,pinduoduo.com
-  - DOMAIN-SUFFIX,xiaomi.com
-  - DOMAIN-SUFFIX,mi.com
-  - GEOSITE,cn
-  - GEOIP,CN
+  GEOSITE,private
+  IP-CIDR,127.0.0.0/8,no-resolve
+  IP-CIDR,169.254.0.0/16,no-resolve
+  IP-CIDR,10.0.0.0/8,no-resolve
+  IP-CIDR,172.16.0.0/12,no-resolve
+  IP-CIDR,192.168.0.0/16,no-resolve
+  IP-CIDR,100.64.0.0/10,no-resolve
+  IP-CIDR,224.0.0.0/4,no-resolve
+  IP-CIDR,240.0.0.0/4,no-resolve
+
+  GEOSITE,category-games@cn
+  GEOSITE,apple-cn
+  GEOSITE,microsoft@cn
+  GEOSITE,steam@cn
+  DOMAIN-SUFFIX,cn
+  DOMAIN-SUFFIX,中国
+  DOMAIN-SUFFIX,公司
+  DOMAIN-SUFFIX,网络
+  DOMAIN-SUFFIX,baidu.com
+  DOMAIN-SUFFIX,bilibili.com
+  DOMAIN-SUFFIX,iqiyi.com
+  DOMAIN-SUFFIX,qq.com
+  DOMAIN-SUFFIX,weixin.qq.com
+  DOMAIN-SUFFIX,gtimg.com
+  DOMAIN-SUFFIX,taobao.com
+  DOMAIN-SUFFIX,tmall.com
+  DOMAIN-SUFFIX,jd.com
+  DOMAIN-SUFFIX,alicdn.com
+  DOMAIN-SUFFIX,aliyuncs.com
+  DOMAIN-SUFFIX,douyin.com
+  DOMAIN-SUFFIX,amemv.com
+  DOMAIN-SUFFIX,bytedance.com
+  DOMAIN-SUFFIX,byteimg.com
+  DOMAIN-SUFFIX,163.com
+  DOMAIN-SUFFIX,126.net
+  DOMAIN-SUFFIX,weibo.com
+  DOMAIN-SUFFIX,zhihu.com
+  DOMAIN-SUFFIX,meituan.com
+  DOMAIN-SUFFIX,pinduoduo.com
+  DOMAIN-SUFFIX,xiaomi.com
+  DOMAIN-SUFFIX,mi.com
+
+  GEOSITE,cn
+  GEOIP,CN
