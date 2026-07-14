@@ -3,6 +3,7 @@
 
 # 不要的网站
 DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,msn.com
 
 # 163
 DOMAIN-SUFFIX,a.youdao.com
