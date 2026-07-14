@@ -41,4 +41,4 @@
   DOMAIN-SUFFIX,mi.com
 
   GEOSITE,cn
-  GEOIP,CN
+  GEOIP,CN,no-resolve
