@@ -1,5 +1,6 @@
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-KEYWORD,pornhub
+
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,anthropic.com
@@ -25,8 +26,6 @@
   - GEOSITE,youtube
   - GEOSITE,telegram
   - GEOSITE,github
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-KEYWORD,pornhub
 
   - GEOSITE,geolocation-!cn
   - MATCH
