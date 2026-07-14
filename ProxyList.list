@@ -28,5 +28,6 @@
   GEOSITE,telegram
   GEOSITE,github
 
-  # GEOSITE,geolocation-!cn
+  GEOSITE,geolocation-!cn
+  GEOIP,geolocation-!cn
   MATCH
