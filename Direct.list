@@ -1,3 +1,8 @@
+  # 需要直连的网站
+  DOMAIN-SUFFIX,dpdns.org
+  DOMAIN-SUFFIX,ipleak.net
+
+  # 以下部分来自网络下载
   GEOSITE,private
   IP-CIDR,127.0.0.0/8,no-resolve
   IP-CIDR,169.254.0.0/16,no-resolve
