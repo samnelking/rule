@@ -4,10 +4,10 @@
 规则:
 rules:
 - PROCESS-NAME,curl,DIRECT
-  匹配路由自身进程(curl直连)
+    匹配路由自身进程(curl直连)
 
 - DOMAIN-SUFFIX,google.com,Proxy
-  匹配域名后缀(交由Proxy代理服务器组)
+    匹配域名后缀(交由Proxy代理服务器组)
 - DOMAIN-KEYWORD,google,Proxy
   匹配域名关键字(交由Proxy代理服务器组)
 - DOMAIN,google.com,Proxy
