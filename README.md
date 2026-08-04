@@ -1,7 +1,7 @@
 # rule
 自用clash订阅模板
 
-规则:
+## 规则:
 rules:
 - PROCESS-NAME,curl,DIRECT
   匹配路由自身进程(curl直连)
