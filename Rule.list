@@ -1,16 +1,11 @@
 [custom]
-
-ruleset=🎯 全球直连,rules/ACL4SSR/Clash/LocalAreaNetwork.list
-ruleset=🛑 全球拦截,https://raw.githubusercontent.com/samnelking/rule/refs/heads/main/BanAD.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/samnelking/rule/refs/heads/main/ProxyList.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/samnelking/rule/refs/heads/main/Direct.list
-ruleset=🎯 全球直连,rules/ACL4SSR/Clash/Ruleset/SteamCN.list
-ruleset=🚀 节点选择,rules/ACL4SSR/Clash/Telegram.list
-ruleset=🚀 节点选择,rules/ACL4SSR/Clash/ProxyMedia.list
-ruleset=🚀 节点选择,rules/ACL4SSR/Clash/ProxyLite.list
-ruleset=🎯 全球直连,rules/ACL4SSR/Clash/ChinaDomain.list
-ruleset=🎯 全球直连,rules/ACL4SSR/Clash/ChinaCompanyIp.list
-;ruleset=🎯 全球直连,[]GEOIP,LAN
-ruleset=🎯 全球直连,[]GEOIP,CN
+ruleset=🛑 全球拦截,https://raw.githubusercontent.com/samnelking/rule/refs/heads/main/BanAD.list
+ruleset=🎯 全球直连,[]GEOSITE,CN
+ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
+ruleset=🚀 节点选择,[]GEOSITE,geolocation-!cn
+ruleset=🚀 节点选择,[]GEOIP,geolocation-!cn
 ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]DIRECT`.*
