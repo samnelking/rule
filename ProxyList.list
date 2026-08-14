@@ -5,7 +5,9 @@
   DOMAIN-KEYWORD,makerworld
   DOMAIN-SUFFIX,llama.app
   DOMAIN-KEYWORD,llama.app
-
+  DOMAIN-SUFFIX,google.com
+  DOMAIN-KEYWORD,google.com
+  
 # DOMAIN-KEYWORD,ipleak.net
 
   DOMAIN-SUFFIX,openai.com
