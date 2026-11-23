@@ -44,7 +44,6 @@
   DOMAIN-SUFFIX,pinduoduo.com
   DOMAIN-SUFFIX,xiaomi.com
   DOMAIN-SUFFIX,mi.com
-  DOMAIN-SUFFIX,dpdns.org
 
   # GEOSITE,cn
   # GEOIP,CN,no-resolve
